@@ -129,3 +129,29 @@ main section{
     border-radius: 5px; 
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+
+/* resume section styles */
+.resume{
+    text-align: center;
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-title{
+    font: 600px;
+}
+.experience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    margin: 20px;
+}
+.experience-description{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
